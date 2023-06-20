@@ -37,3 +37,4 @@ fort.21
 /dependencies/jni/config.sub
 /dependencies/jni/install-sh
 /dependencies/jni/ltmain.sh
+.DS_Store
